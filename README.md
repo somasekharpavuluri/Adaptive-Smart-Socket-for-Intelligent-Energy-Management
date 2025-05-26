@@ -34,9 +34,7 @@ This project introduces the **Adaptive Smart Socket**, a cost-effective and user
 - **Web View Configuration for easy access**
 
 The system was designed and simulated using **EasyEDA**, fabricated in a laboratory setting, and tested in real-world conditions to validate performance. Results showed significant reductions in energy waste, improved power distribution, and enhanced user control.
-
----![Screenshot 2025-05-26 214924](https://github.com/user-attachments/assets/4dc2fb98-ebb6-4327-b89e-ad1851da9471)
-
+![image](https://github.com/user-attachments/assets/a7b2fefb-e7dd-4627-849a-d7e788778982)
 
 ## 🧭 Introduction
 
@@ -79,7 +77,8 @@ The Adaptive Smart Socket is designed to intelligently manage energy with minima
 
 ### 🔄 Flowchart
 
-![Flowchart](./)
+![Flowchart](./) ![image](https://github.com/user-attachments/assets/7fb02189-f0d6-4182-b00b-26ef606e2522)
+
 *Fig 3: Operational Flowchart*
 
 ---
@@ -94,7 +93,8 @@ The Adaptive Smart Socket is designed to intelligently manage energy with minima
 
 ### 📐 Circuit Schematic
 
-![Schematic](./images/schematic_diagram.png)
+![Schematic](./images/schematic_diagram.png) ![image](https://github.com/user-attachments/assets/5202a092-fb1e-4031-8b4a-10ad29800b43)
+
 *Fig 4: Full Circuit Schematic*
 
 ---
@@ -106,10 +106,14 @@ Designed using EasyEDA for compact, modular layout. Includes:
 - Isolated AC/DC regions
 - Efficient trace routing
 
-![PCB Layout](./images/pcb_layout.png)
+![PCB Layout](./images/pcb_layout.png)  ![image](https://github.com/user-attachments/assets/cf754095-96b7-4abb-9773-2ad0fb118681)
+
 *Fig 5: PCB Layout*
 
----
+---![image](https://github.com/user-attachments/assets/72adf7f5-b4a2-4dbb-941b-952fe7a74dfb)
+![image](https://github.com/user-attachments/assets/0f5a0cdd-67b1-4355-b313-8fd15adf23b4)
+
+
 
 ### 🔧 Hardware Setup
 
@@ -123,9 +127,11 @@ Final setup includes:
 ![Hardware Setup](./images/hardware_setup.jpg)
 *Fig 6: Hardware Integration*
 
----
+--- ![image](https://github.com/user-attachments/assets/0c6218cd-33ff-4788-b165-ebc968763d0b)
+
 
 ## 💻 Software Configuration
+![image](https://github.com/user-attachments/assets/7df15d46-8cb6-4ec6-97a8-f63fcaff7d75)
 
 The ESP8266 firmware uses:
 - `WiFiManager` for dynamic Wi-Fi config
@@ -143,7 +149,8 @@ The ESP8266 firmware uses:
 ![WiFi Config](./images/wifi_setup.png)
 *Fig 7: Wi-Fi and MQTT Setup Interface*
 
----
+---![image](https://github.com/user-attachments/assets/4e96ed65-0abc-4e50-ad57-01174a205e69)
+
 
 ## 🧪 Results and Analysis
 
@@ -151,13 +158,15 @@ The ESP8266 firmware uses:
 - Real-time switching via mobile app
 - MQTT latency < 300ms
 - OLED display updated without lag
-- Scheduled switching executed accurately
+- Scheduled switching executed accurately ![image](https://github.com/user-attachments/assets/ca10fe9b-583f-41cd-872b-49610be2b9dd)
+
 - 15–25% reduction in power consumption validated
 
 ![Mobile App Control](./images/mobile_control.png)
 *Fig 8: MQTT-Based Control Interface*
 
----
+---![Uploading image.png…]()
+
 
 ## 📈 Future Enhancements
 
