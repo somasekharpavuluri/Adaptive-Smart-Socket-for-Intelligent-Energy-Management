@@ -35,7 +35,8 @@ This project introduces the **Adaptive Smart Socket**, a cost-effective and user
 
 The system was designed and simulated using **EasyEDA**, fabricated in a laboratory setting, and tested in real-world conditions to validate performance. Results showed significant reductions in energy waste, improved power distribution, and enhanced user control.
 
----
+---![Screenshot 2025-05-26 214924](https://github.com/user-attachments/assets/4dc2fb98-ebb6-4327-b89e-ad1851da9471)
+
 
 ## 🧭 Introduction
 
