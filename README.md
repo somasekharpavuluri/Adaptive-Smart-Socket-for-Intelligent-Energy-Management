@@ -52,7 +52,8 @@ Smart sockets do exist, but are often complex, unreliable, or unaffordable. This
 - OLED-based real-time feedback
 
 ![Smart vs Traditional Socket Comparison](./![image](https://github.com/user-attachments/assets/3e9cb086-3fe7-4782-aa38-cfd1fc297405)
-)
+) ![Uploading Screenshot 2025-05-26 214924.png…]()
+
 *Fig 1: Traditional vs Smart Socket Capabilities*
 
 ---
